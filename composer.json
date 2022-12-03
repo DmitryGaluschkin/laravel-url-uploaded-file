@@ -1,5 +1,5 @@
 {
-    "name": "DmitryGaluschkin/laravel-url-uploaded-file",
+    "name": "dmitry-galuschkin/laravel-url-uploaded-file",
     "description": "A package to leverage Laravel's UploadedFile functionality from URLs. Fork with php 8.1 version",
     "keywords": [
         "naxon",
